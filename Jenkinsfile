@@ -45,6 +45,7 @@ Landmark
     }
     success{
       emailext body: '''Hey guys
+Good job build and deployment is successful.
 Good job build and deployment is successful
 Thanks
 Landmark 
